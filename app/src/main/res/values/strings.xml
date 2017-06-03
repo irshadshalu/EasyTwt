@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">EasyTwtr</string>
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">nicglr31ovBnGfEOjsg7CYBnT</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">6lAsxV9WSmAcTpZ8h5MRYyecQKGPL1Rwsp1CoTzIjx5dkQWwY2</string>
+    <string name="title_activity_test">EasyTwtr</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
