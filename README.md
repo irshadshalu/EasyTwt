@@ -1,2 +1,2 @@
 # EasyTwt
-Assignment Task done for frainz.com
+Assignment task done for frainz.com
